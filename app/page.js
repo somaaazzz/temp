@@ -51,7 +51,7 @@ const ValentinePage = () => {
 
       {/* Footer message */}
       <p className="text-xl text-purple-700 mt-8 text-center max-w-md">
-        You light up my heart like the sun.<br/> Happy Valentine's Day! ❤️
+        You're my forever velentine!! ❤️
       </p>
     </div>
   );
